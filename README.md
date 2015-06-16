@@ -1,2 +1,6 @@
 # Python-DNA-Tool
-DNA translation &amp; calculating GC content, percent composition, and ATCG base count
+
+Repository that contains python scripts for DNA analysis, specifically:
+* DNA translation
+* GC content calculations (ratio or percentage)
+* ATCG base ratio functions (percent composition, base count)
