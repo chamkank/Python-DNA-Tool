@@ -1,4 +1,4 @@
-# Python-DNA-Tool
+# Python Bioinformatics Framework
 
 Repository that contains python scripts for DNA analysis, specifically:
 * DNA translation
