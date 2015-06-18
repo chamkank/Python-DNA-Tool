@@ -13,6 +13,7 @@ Repository that contains python scripts for DNA analysis, specifically:
 * **nucleotide_composition** - returns specific base % composition
 * **total_nucleotide_composition** - returns a dictionary containing ATCG base % composition values
 * **GC_content** - returns GC content as a percent, or G+C ratio
+* **mendel_first - applies Mendel's first law, use help(mendel_first) for more info
 
 ##Instructions/Setup
 1. Download repository.
