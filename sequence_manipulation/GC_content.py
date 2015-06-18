@@ -1,6 +1,8 @@
 '''
 Written by Cham K.
 June 16th 2015
+
+FASTA being implemented.
 '''
 
 from sequence_manipulation import nucleotide_count
