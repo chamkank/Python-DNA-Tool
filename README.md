@@ -19,3 +19,6 @@ Repository that contains python scripts for DNA analysis, specifically:
 2. Import controller.py to access functions.
 3. Use functions described above using only their names (no filepath required, already handled by controller.py).
 4. Use Python's help function to access type contracts, descriptions, and sample usage of any function in this framework.
+
+##Development
+Functions are being adapted to read FASTA format.
