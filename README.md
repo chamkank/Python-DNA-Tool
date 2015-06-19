@@ -22,4 +22,5 @@ Repository that contains python scripts for DNA analysis, specifically:
 4. Use Python's help function to access type contracts, descriptions, and sample usage of any function in this framework.
 
 ##Development
-Functions are being adapted to read FASTA format.
+* Functions are being adapted to read FASTA format.
+* Setup.py will be incorporated to easily use the framework. 
