@@ -12,7 +12,6 @@ from sequence_manipulation import nucleotide_composition
 from sequence_manipulation import nucleotide_count
 from sequence_manipulation import RNA_transcription
 from sequence_manipulation import DNA_translation
-from population_tools import laws_of_mendel
 
 #sequence_manipulation\GC_content.py
 GC_content = GC_content.GC_content
@@ -30,6 +29,3 @@ transcription = RNA_transcription.transcription
 
 #sequence_manipulation\DNA_translation.py
 translation = DNA_translation.translation
-
-#population_tools\laws_of_mendel.py
-mendel_first = laws_of_mendel.mendel_first
