@@ -22,4 +22,4 @@ Repository that contains python scripts for DNA analysis, specifically:
 
 ##Development
 * Functions are being adapted to read FASTA format.
-* Setup.py will be incorporated to easily use the framework. 
+* Setup.py will be incorporated to easily install and use the tool.
